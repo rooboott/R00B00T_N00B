@@ -90,7 +90,7 @@
 
 ## Installation in Linux :
 
-Open Terminal and Type : ```git clone https://github.com/technicaldada/hackerpro.git```
+Open Terminal and Type : ```git clone https://github.com/rooboott/hackerpro.git```
 
 After Downloading The File Type : ```sudo cd hackerpro && sudo python hackerpro.py```
 
@@ -102,7 +102,7 @@ Video Tutorial : Coming Soon
 
 Then Open Termux and Type : ```apt update && apt upgrade && apt install git && apt install python```
 
-After That Open Termux and Type : ```git clone https://github.com/technicaldada/hackerpro.git```
+After That Open Termux and Type : ```git clone https://github.com/rooboott/hackerpro.git```
 
 Then Type : ```cd hackerpro && python hackerpro.py```
 
@@ -110,11 +110,10 @@ Video Tutorial : Coming Soon
 
 ## License :
 
-[MIT Licence](https://github.com/technicaldada/hackerpro/blob/master/LICENSE)
 
 Thats It... If You Like This Repo. Please Share This With Your Friends..
 
-& Don't Forget To Follow Me At [Youtube](https://www.youtube.com/c/R00B00T_N00B), [Facebook](https://www.facebook.com/R00B00T_N00B.in), [Github](https://www.github.com/technicaldada) & VISIT My Personal [Website](http://www.R00B00T_N00B.in).. Visit Our [Blog For Hackers](https://www.kalilinux.in) !!!
+& Don't Forget To Follow Me At [Youtube](https://www.youtube.com/c/R00B00T_N00B), [Facebook](https://www.facebook.com/R00B00T_N00B.in), [Github](https://github.com/rooboott) & VISIT My Personal [Website](http://www.R00B00T_N00B.in).. Visit Our [Blog For Hackers](https://www.kalilinux.in) !!!
 
 ***Thankyou.***
 ***Keep Visiting..***
